@@ -13,4 +13,4 @@ if(N%3==0)
     printf("YES");
 }
 else
-    printf("NO");
+    printf("NO. ");
