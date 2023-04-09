@@ -14,3 +14,4 @@ if(N%3==0)
 }
 else
     printf("NO. ");
+}
